@@ -22,7 +22,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository:**  
    Run the following command to clone the repository to your local machine:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Glen357/node_server_for_azure_mysql.git
    ```
 
 2. **Install Dependencies:**  
